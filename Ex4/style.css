@@ -1,0 +1,12 @@
+form{
+    padding:5px;
+    background-color:rgb(246, 246, 177);
+    width:600px;
+    height: 350px;
+}
+   
+h1{
+    text-align: center;
+    background-color:rgb(206, 240, 206);
+    color:rgb(0, 157, 255);
+}
