@@ -1,0 +1,21 @@
+form{
+    background-color:rgb(121, 222, 248);
+    padding:5px 10px;
+    width:fit-content;
+    height:fit-content
+}
+p{
+    background-color:red;
+    color:white;
+    text-align: center;
+}
+.title {
+    color:blue;
+}
+.items{
+    color:orange;
+}
+.hobby {
+    display:inline-block;
+    align-items: self-start;
+}
